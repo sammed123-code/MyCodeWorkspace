@@ -1,3 +1,2 @@
 # MyCodeWorkspace
-This is readme file. and Python code.
-print("Hello")
+This is readme file. and have all Python codes that I've written.
